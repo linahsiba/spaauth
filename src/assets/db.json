@@ -1,0 +1,21 @@
+{
+  "Employee": [
+    {
+      "id": 100,
+      "name": "Steve",
+      "debut": "Minecraft",
+      "DOB": "2020-10-10",
+      "salary": 20201,
+      "email": "stevedraft@mojang.com"
+    }
+  ],
+  "users": [
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "confirmedPassword": "",
+      "id": 1
+    }
+  ]
+}
